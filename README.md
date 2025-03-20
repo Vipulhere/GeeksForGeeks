@@ -14,11 +14,6 @@ This repository is dedicated to solving **GeeksForGeeks POTD**, providing:
 
 ---
 
-## 📂 Repository Structure
-
-
----
-
 ## 🚀 How to Contribute?
 
 Feel free to contribute by submitting **optimized solutions**, improving explanations, or structuring the repo better.  
